@@ -1,12 +1,13 @@
-# Asus-Vivobook-S14-M5406WA-ICC-profiles
-
 ICC Color Profiles for Asus Vivobook S14 OLED (M5406WA)
 This repository contains ICC (International Color Consortium) profiles for the Asus Vivobook S14 OLED (M5406WA) to improve color accuracy for creative and professional work.
 
 🧐 Disclaimer
 Use these profiles at your own risk. Display panels can have slight variations between units, so results may differ. For professional-grade accuracy, it is always recommended to calibrate your specific display with a colorimeter.
 
-M5406WA_1002_834C419D_CMDEF.icm: The default, out-of-the-box color profile extracted from the factory drivers.
+🎨 Profiles Included
+M5406WA_1002_834C419D_CMDEF.icm : The default, out-of-the-box color profile extracted from the factory drivers.
+
+S14.icm : From an article that calibrated it.
 
 ⚙️ Installation Instructions
 Choose the guide for your operating system.
