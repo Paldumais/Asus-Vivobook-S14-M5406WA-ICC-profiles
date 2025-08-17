@@ -4,9 +4,9 @@ This repository contains ICC (International Color Consortium) profiles for the A
 🧐 Disclaimer
 Use these profiles at your own risk. Display panels can have slight variations between units, so results may differ. For professional-grade accuracy, it is always recommended to calibrate your specific display with a colorimeter.
 
-🎨 Profiles Included
-M5406WA_1002_834C419D_CMDEF.icm : The default, out-of-the-box color profile extracted from the factory drivers.
+🎨 Profiles Included 
 
+M5406WA_1002_834C419D_CMDEF.icm : The default, out-of-the-box color profile extracted from the factory drivers.
 S14.icm : From an article that calibrated it.
 
 ⚙️ Installation Instructions
